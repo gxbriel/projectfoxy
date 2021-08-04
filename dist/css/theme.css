@@ -23748,11 +23748,11 @@ background: linear-gradient(90deg, rgba(241,130,16,1) 0%, rgba(241,106,56,1) 62%
   color: #fff
 }
 .dark-mode .card {
-  background-color: #343a40;
+  background-color: #272b2e;
   color: #fff
 }
 .dark-mode .card .card {
-  background-color: #3f474e;
+  background-color: #272b2e;
   color: #fff
 }
 .dark-mode .card .nav.flex-column > li {
@@ -38621,4 +38621,9 @@ a.text-muted:hover {
   font-size: 1rem;
     margin: 20px;
 }
+
+.fa-circle {
+  color: #ff6a00;
+}
+
 /*# sourceMappingURL=adminlte.min.css.map */
